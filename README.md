@@ -1,2 +1,2 @@
 # Aptitude
-1. Aptitude
+# 1. HCF and LCM

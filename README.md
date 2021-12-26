@@ -8,3 +8,4 @@
 ###### 7. Ratio Proportion Variation-2      #12
 ###### 8. Time and Work                     #14 (#10 + #4)
 ###### 12.Reasoning-1                       #21
+###### 13.Permutation-Combination           #22

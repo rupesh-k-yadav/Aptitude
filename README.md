@@ -10,3 +10,4 @@
 ###### 12.Reasoning-1                       #21
 ###### 13.Permutation-Combination           #22
 ###### 14.Probability                       #20( #13 + #7 )
+###### 15.Time Speed and Distance           #18

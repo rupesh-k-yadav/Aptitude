@@ -9,3 +9,4 @@
 ###### 8. Time and Work                     #14 (#10 + #4)
 ###### 12.Reasoning-1                       #21
 ###### 13.Permutation-Combination           #22
+###### 14.Probability                       #20( #13 + #7 )

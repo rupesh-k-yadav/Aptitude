@@ -19,3 +19,6 @@
 ###### 18.Data Interpretation               #12
 ###### 19.Set Theory Mensuration Logarithm  #26
 ###### 20.Important Topics                  #21
+
+
+Total : ##308

@@ -15,3 +15,7 @@
 ###### 14.Probability                       #20( #13 + #7 )
 ###### 15.Time Speed and Distance           #18
 ###### 16.Blood Relation Calenders          #20
+###### 17.Application of Time Speed Distance #17
+###### 18.Data Interpretation               #12
+###### 19.Set Theory Mensuration Logarithm  #26
+###### 20.Important Topics                  #21
